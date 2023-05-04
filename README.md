@@ -9,7 +9,7 @@ Performance
 --------------------------------
 We stop training when the current game can be played for more than 600 steps, and the past 100 games can be played for more than 300 steps on average. Below is the line chart of average model performance.
 
-<div align=center><img width="600" height="600" src="https://github.com/AlbertSun0930/Playing-Flappy-Bird-with-DQN-and-improvements/blob/main/duration/comprison%20of%20algorithms.png"/></div>
+<div align=center><img width="600" height="450" src="https://github.com/AlbertSun0930/Playing-Flappy-Bird-with-DQN-and-improvements/blob/main/duration/comprison%20of%20algorithms.png"/></div>
 
 Getting started
 --------------------------------
