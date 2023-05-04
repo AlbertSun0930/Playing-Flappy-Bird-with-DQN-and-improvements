@@ -4,8 +4,8 @@
 
 In this project we adopt the original DQN code from [cite](https://github.com/hardlyrichie/pytorch-flappy-bird). We use cuda to achieve much faster convergence.   We also implement 4 algorithms combined with DQN by ourselves, i.e, double-DQN, prioritized experience replay, dueling network architecture and integration of them.  
 
-##To get models to start training run:
-
+To get models to start training run:
+--------------------------------
 ```
 python DQN.py train
 python PriDQN.py train
@@ -14,11 +14,11 @@ python DuelDQN.py train
 python PriDoubleDuelDQN.py train
 ```
 
-##To test models:
+To test models:
 
-We have save neural network parameters of the DQN model. You can test it by runing:  
+We have save neural network parameters of the PriDoubleDuelDQN model. You can test it by runing:  
 ```
-python DQN.py test
+python PriDoubleDuelDQN.py test
 ```
 
 For others, you need to train the models first and get convergence. Then you can run the following codes for testing:
@@ -26,5 +26,5 @@ For others, you need to train the models first and get convergence. Then you can
 python PriDQN.py test
 python DoubleDQN.py test
 python DuelDQN.py test
-python PriDoubleDuelDQN.py test
+python DQN.py test
 ```
