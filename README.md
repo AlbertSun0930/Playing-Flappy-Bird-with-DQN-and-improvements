@@ -11,7 +11,7 @@ We stop training when the current game can be played for more than 600 steps, an
 
 ![image](https://github.com/AlbertSun0930/Playing-Flappy-Bird-with-DQN-and-improvements/blob/main/duration/comprison%20of%20algorithms.png)
 
-<img src="https://github.com/AlbertSun0930/Playing-Flappy-Bird-with-DQN-and-improvements/blob/main/duration/comprison%20of%20algorithms.png" width="10px">
+<img src="https://github.com/AlbertSun0930/Playing-Flappy-Bird-with-DQN-and-improvements/blob/main/duration/comprison%20of%20algorithms.png" width="100px">
 
 
 Getting started
